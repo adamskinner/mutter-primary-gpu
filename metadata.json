@@ -2,7 +2,7 @@
   "name": "Mutter Primary GPU",
   "description": "Override primary GPU selection for Wayland",
   "uuid": "mutter-primary-gpu@zaidka.github.io",
-  "shell-version": ["42"],
-  "url": "https://github.com/zaidka/mutter-primary-gpu",
+  "shell-version": ["44"],
+  "url": "https://github.com/adamskinner/mutter-primary-gpu",
   "version": 1  
 }
